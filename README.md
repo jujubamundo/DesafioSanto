@@ -1,6 +1,6 @@
-# DesafioSanto
+# Desafio 5 SantoDigital
 
-Bem-vindo ao DesafioSanto! Este projeto foi criado para demonstrar a configuração de uma infraestrutura na nuvem utilizando o Terraform e o Google Cloud Platform (GCP).
+Bem-vindo ao Desafio 5 SantoDigital! Este projeto foi criado para demonstrar a configuração de uma infraestrutura na nuvem utilizando o Terraform e o Google Cloud Platform (GCP).
 
 ## 📋 Documento Explicativo
 
